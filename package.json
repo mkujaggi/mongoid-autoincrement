@@ -1,6 +1,6 @@
 {
   "name": "mongoid-autoincrement",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns incremented mongodb id sequence",
   "main": "index.js",
   "scripts": {
