@@ -13,7 +13,9 @@
   "keywords": [
     "mongodb",
     "autoincrement",
-    "sequence"
+    "sequence",
+    "auto-increment",
+    "auto increment"
   ],
   "author": "Mukul Jaggi <mkujaggi@gmail.com>",
   "license": "MIT",
