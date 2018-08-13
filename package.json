@@ -1,0 +1,30 @@
+{
+  "name": "mongoid-autoincrement",
+  "version": "1.0.0",
+  "description": "Returns incremented mongodb id sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkujaggi/mongoid-autoincrement.git"
+  },
+  "keywords": [
+    "mongodb",
+    "autoincrement",
+    "sequence"
+  ],
+  "author": "Mukul Jaggi <mkujaggi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkujaggi/mongoid-autoincrement/issues"
+  },
+  "homepage": "https://github.com/mkujaggi/mongoid-autoincrement#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "mongodb": "^3.1.1"
+  }
+}
