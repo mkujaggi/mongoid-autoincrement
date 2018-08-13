@@ -1,5 +1,5 @@
 var {fetchNextId} = require('./index');
-fetchNextId('mongodb://localhost:27017/Orders', 'Orders', 'orders', 'orderId', 2,1000, (err, inc) => {
+fetchNextId('mongodb://localhost:27017/', 'DBName', 'collectionName', 'columnName', 2,1000, (err, inc) => {
     if (err) {
         throw err;
     }
